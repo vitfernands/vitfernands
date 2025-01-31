@@ -1,6 +1,5 @@
-### Hi, I am Vítor!
-
- I am a brazilian student 📚, at the moment studying JavaScript, NodeJS, HTML, CSS and PL/SQL. <br>
- I'm working in a medical company 🏥 in IT support 💻. 
+### OLá, sou o Vítor!
+Atualmente estou me desenvolvendo com foco na área de dados.
+Possuo um conhecimento avançado em consultas SQL, com foco em PL/SQL e MySQL. Aleḿ de estar estudando Python.
  
  
