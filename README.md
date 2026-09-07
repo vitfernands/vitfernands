@@ -1,7 +1,7 @@
 ### Olá, sou o Vítor!
 ⚙️💻Atualmente estou me desenvolvendo com foco na de área Engenharia de dados, Administração de Banco de Dados, Análise de Dados, BI e Programação.
 
-📈Possuo um conhecimento avançado em SQL para a criação de diversos relatórios e levantamentos de dados para indicadores, utilizando CTE's, subqueryes, functions e SELECTS complexos para garantir a melhor performance e confiabilidade possível nos dados tratados.
+📈Possuo um conhecimento avançado em SQL para a criação de diversos relatórios e levantamentos de dados para indicadores, utilizando CTE's, subqueryes, functions e SELECTS complexos para garantir a melhor performance e confiabilidade nos dados tratados.
 
 🧑‍🔬Utilizando a linguagem PL/SQL e SQL, realizo a criação e manuntenção de diversos objetos (Procedures, triggers, functions, views, tables, temporary tables e Jobs). Dessa forma, realizo a automação de processos realizados internamente na organização.
 
