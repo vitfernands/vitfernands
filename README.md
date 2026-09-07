@@ -1,5 +1,5 @@
 ### Olá, sou o Vítor!
-⚙️💻Atualmente estou me desenvolvendo com foco na de área Engenharia de dados, Administração de Banco de Dados e Programação.
+⚙️💻Atualmente estou me desenvolvendo com foco na de área Engenharia de dados, Administração de Banco de Dados, Análise de Dados, BI e Programação.
 
 📈Possuo um conhecimento avançado em SQL realizando a criação de diversos relatórios e levantamentos de dados para gerar insights, utilizando CTE's, subqueryes, functions e SELECTS complexos para garantir a melhor performance e confiabilidade possível nos dados tratados.
 
